@@ -1,0 +1,64 @@
+.sidebar-img-10, .sidebar-img-1, .sidebar-img-2, .sidebar-img-3, .sidebar-img-4, .sidebar-img-5, .sidebar-img-6, .sidebar-img-7, .sidebar-img-8, .sidebar-img-9{
+	background: url(sprites.png) no-repeat;
+}
+
+.sidebar-img-10{
+	background-position: -540px 0;
+	width: 60px;
+	height: 50px;
+}
+
+.sidebar-img-1{
+	background-position: 0 0;
+	width: 60px;
+	height: 50px;
+}
+
+.sidebar-img-2{
+	background-position: -60px 0;
+	width: 60px;
+	height: 50px;
+}
+
+.sidebar-img-3{
+	background-position: -120px 0;
+	width: 60px;
+	height: 50px;
+}
+
+.sidebar-img-4{
+	background-position: -180px 0;
+	width: 60px;
+	height: 50px;
+}
+
+.sidebar-img-5{
+	background-position: -240px 0;
+	width: 60px;
+	height: 50px;
+}
+
+.sidebar-img-6{
+	background-position: -300px 0;
+	width: 60px;
+	height: 50px;
+}
+
+.sidebar-img-7{
+	background-position: -360px 0;
+	width: 60px;
+	height: 50px;
+}
+
+.sidebar-img-8{
+	background-position: -420px 0;
+	width: 60px;
+	height: 50px;
+}
+
+.sidebar-img-9{
+	background-position: -480px 0;
+	width: 60px;
+	height: 50px;
+}
+
